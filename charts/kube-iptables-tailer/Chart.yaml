@@ -3,7 +3,7 @@ appVersion: "v0.1.0"
 description: A Helm chart for Kubernetes
 name: kube-iptables-tailer
 version: 0.2.0
-home: https://github.com/honestica/lifen-charts
+home: https://github.com/geek-cookbook/helm-kube-iptables-tailer
 keywords:
 - kube-iptables-tailer
 - iptables

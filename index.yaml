@@ -3,6 +3,28 @@ entries:
   kube-iptables-tailer:
   - apiVersion: v1
     appVersion: v0.1.0
+    created: "2021-04-23T00:59:25.388539502Z"
+    description: A Helm chart for Kubernetes
+    digest: 3407c86e2cf75fb8ed78530b7c97212e4abf7df39ae042bd17bf33e7ebc4faae
+    home: https://github.com/geek-cookbook/helm-kube-iptables-tailer
+    keywords:
+    - kube-iptables-tailer
+    - iptables
+    - calico
+    - networkpolicy
+    maintainers:
+    - email: matthieu.paret@lifen.fr
+      name: mtparet
+    - email: davidy@funkypenguin.co.nz
+      name: funkypenguin
+    name: kube-iptables-tailer
+    sources:
+    - https://github.com/box/kube-iptables-tailer
+    urls:
+    - https://github.com/geek-cookbook/helm-kube-iptables-tailer/releases/download/kube-iptables-tailer-0.2.1/kube-iptables-tailer-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: v0.1.0
     created: "2021-04-23T00:48:03.408889783Z"
     description: A Helm chart for Kubernetes
     digest: 2d866cfa058b0d03faf4ba10ac0682b82f719701f36919cb56b44312b70e628b
@@ -23,4 +45,4 @@ entries:
     urls:
     - https://github.com/funkypenguin/helm-kube-iptables-tailer/releases/download/kube-iptables-tailer-0.2.0/kube-iptables-tailer-0.2.0.tgz
     version: 0.2.0
-generated: "2021-04-23T00:48:03.408895083Z"
+generated: "2021-04-23T00:59:25.388555602Z"
